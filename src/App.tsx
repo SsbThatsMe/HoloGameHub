@@ -1,13 +1,13 @@
-import { useState, useEffect, type SetStateAction } from 'react'
+import { useState, useEffect } from 'react'
 import './App.css'
 import InfoCard from './assets/components/InfoCard';
-import ButtonBar from './assets/components/ButtonBar';
+//import ButtonBar from './assets/components/ButtonBar';
 
 
 function App() {
-  const apiKey = "AIzaSyAzXDLjUNNGtVsw-JMjeZY46q-PL_-ZXbc";
+  //const apiKey = "AIzaSyAzXDLjUNNGtVsw-JMjeZY46q-PL_-ZXbc";
   const amount = 50;
-  const URL = "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=" + amount+ "&channelId=UChAnqc_AY5_I3Px5dig3X1Q&order=date&key=" + apiKey;
+  //const URL = "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=" + amount+ "&channelId=UChAnqc_AY5_I3Px5dig3X1Q&order=date&key=" + apiKey;
   const [dataUpdate, setDataUpdate] = useState(0)
   const [showCorrect, setShowCorrect] = useState(false)
   const [showIncorrect, setShowIncorrect] = useState(false)
@@ -24,7 +24,7 @@ function App() {
   let index1 = Math.floor(Math.random() * amount + 1)
   let index2 = Math.floor(Math.random() * amount)
   if (index2 === index1) index2 = amount
-  let videoURL = "https://youtube.googleapis.com/youtube/v3/videos?part=statistics&id=" + "qc8HqfQ7fUo" + "&id=" + "d5jzZXoqknY" + "&key=" + apiKey
+  //let videoURL = "https://youtube.googleapis.com/youtube/v3/videos?part=statistics&id=" + "qc8HqfQ7fUo" + "&id=" + "d5jzZXoqknY" + "&key=" + apiKey
 
   document.documentElement.setAttribute('data-bs-theme', "dark")
 
@@ -38,7 +38,7 @@ function App() {
         setImageURL2(json.items[index2].snippet.thumbnails.high.url)
         setVideoDate1(json.items[index1].snippet.publishTime)
         setVideoDate2(json.items[index2].snippet.publishTime)
-        videoURL = "https://youtube.googleapis.com/youtube/v3/videos?part=statistics&id=" + json.items[index1].id.videoId + "&id=" + json.items[index2].id.videoId + "&key=" + apiKey
+        //videoURL = "https://youtube.googleapis.com/youtube/v3/videos?part=statistics&id=" + json.items[index1].id.videoId + "&id=" + json.items[index2].id.videoId + "&key=" + apiKey
       }).then(() => fetchVideoData())
     }
     const fetchVideoData = async () => {
