@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "zYh-QHjo_lOUqLMqHAJ7LoN90cI",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "SE",
+    "pageInfo": {
+        "totalResults": 240,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "psYSxcvwwmA5hOWP4JpkJKMEiis",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qc8HqfQ7fUo"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-07T14:00:06Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "GOOD BYE 夏男 (cover) / あまにょ様",
+                "description": "松浦亜弥さんの「GOOD BYE 夏男」を歌いました！ --------------------------------------------- イラスト：村壁あこと インスト制作：す ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qc8HqfQ7fUo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qc8HqfQ7fUo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qc8HqfQ7fUo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-07T14:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Paqw7oyEOCf9HUSXpeaNkPFatUo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d5jzZXoqknY"
+            },
+            "snippet": {
+                "publishedAt": "2025-07-03T23:59:10Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【朝枠】超ゲマ直前！！早起きするぞ～～！！【戌神ころね】",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころねTwitter▷https://twitter.com/inugamikorone ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d5jzZXoqknY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d5jzZXoqknY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d5jzZXoqknY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-07-03T23:59:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KB0osjUvMzmK96f4dgFXIJ7TaZ8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xArSPjn4fi4"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-29T01:50:08Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "#1【ド☆初見】ルイージマンション3 で夜更かしするで～！！【戌神ころね】",
+                "description": "Play Game : Luigi's Mansion 3 ( switch ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xArSPjn4fi4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xArSPjn4fi4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xArSPjn4fi4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-29T01:50:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DGllwPdY6sFLFDNW31ZVg9hmXfs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gRXhDS1MYqU"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-22T22:35:01Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【SpongeBob】満足するまでスポンジボブで遊ぶ！【戌神ころね】",
+                "description": "Play Game : SpongeBob SquarePants: The Cosmic Shake ( steam ) タグ #ころさん配信中 --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gRXhDS1MYqU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gRXhDS1MYqU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gRXhDS1MYqU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-22T22:35:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jq0DxzE8ePzLWJ5JDQYWe3TAh-0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w2Tfv9ru-KA"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-18T13:30:39Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【nosh / 案件】今回は晩酌しながらお酒に合うお弁当を選ぶ！！【ころねの食レポ成長記録】",
+                "description": "nosh×Korone Ch. 戌神ころね第二弾の特別コラボクーポンはこちら ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w2Tfv9ru-KA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w2Tfv9ru-KA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w2Tfv9ru-KA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-18T13:30:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8NDxiOQzHG7ZEM2bfOwyUmq_dCY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-_cAWEgmccM"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-16T17:39:30Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【ゴブリン・ノーム・ホーン】オデ、働イテ魔王倒ス！！＜●＞【戌神ころね】",
+                "description": "Play Game : Goblin_Gnome_Horn ( steam ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-_cAWEgmccM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-_cAWEgmccM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-_cAWEgmccM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-16T17:39:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "R5SN9Q5VzK31uS9lmzeoYC-ng0M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VIgmRQWfv3U"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-15T17:11:24Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【 R.E.P.O. 】ひとりでやってみるワンね U^ｪ^U【 戌神ころね 】",
+                "description": "Play Game : R.E.P.O. ( steam ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VIgmRQWfv3U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VIgmRQWfv3U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VIgmRQWfv3U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-15T17:11:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dQywogzvVU2XGd7J9dj7mudcJIc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "o9wQtkWTalI"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-12T15:33:43Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【#ホロ金策サバイバル】DAY4 ～毛玉、ざわ・・・ざわ・・・～【戌神ころね/ホロライブ】",
+                "description": "Play Game : Minecraft ( PC ) タグ #ホロ金策サバイバル​​​​​​​​​​​ --------------------------------------------- 主催者 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o9wQtkWTalI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o9wQtkWTalI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o9wQtkWTalI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-12T15:33:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "C-NPteO3MnEhuSojkC36RYmnVMQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "L_Nj9lhfCQg"
+            },
+            "snippet": {
+                "publishedAt": "2025-06-10T15:34:38Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【#ホロ金策サバイバル】DAY2 ～毛玉、農業に目覚める！？の巻～【戌神ころね/ホロライブ】",
+                "description": "Play Game : Minecraft ( PC ) タグ #ホロ金策サバイバル​​​​​​​​​​​ --------------------------------------------- 主催者 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/L_Nj9lhfCQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/L_Nj9lhfCQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/L_Nj9lhfCQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-06-10T15:34:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5rMzsvmz3a4MCdNsuy0XEEGrIMA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "teq2MG9jgrw"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-05T12:13:31Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【案件】はじめての「テクノス ザ・ワールド くにおくん＆アーケードコレクション」で遊んでみるぞ！！！【戌神ころね】",
+                "description": "Play Game : テクノス ザ・ワールド くにおくん＆アーケードコレクション ( switch ) タグ #生神もんざえもん​​​​​​​​​​​ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/teq2MG9jgrw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/teq2MG9jgrw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/teq2MG9jgrw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-05T12:13:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7d_nID3r-Heebbd-ULsDXA1og2s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "o11cDM2EYkw"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-28T14:12:25Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【神回】SIMPLEシリーズ：THE ころねの雑談シミュレーター",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころねTwitter▷https://twitter.com/inugamikorone ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o11cDM2EYkw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o11cDM2EYkw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o11cDM2EYkw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-28T14:12:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nHd9BdebDT5sGdMac2IRdUKEyRI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UfmQckYeNFg"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-26T11:42:49Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "#5【サガフロ2リマスター】はじめての「サガフロ２」遊ぶぞ～！！【戌神ころね/ホロライブ】",
+                "description": "Play Game : サガ フロンティア2 リマスター ( steam ) タグ #生神もんざえもん​​​​​​​​​​​ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UfmQckYeNFg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UfmQckYeNFg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UfmQckYeNFg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-26T11:42:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "qfZ56ElPCose7cO9nPmJG-_LhYI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JawoCT3nDQ0"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-22T12:00:06Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【デジモンアドベンチャー】brave heart  2人で歌ってみた 【戌神ころね/紫咲シオン】",
+                "description": "塩んぱん ふぉーえばー！！！ --------------------------------------------- 一部歌詞に誤りがあったため訂正です！ 2番「生き方に地図なんか ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JawoCT3nDQ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JawoCT3nDQ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JawoCT3nDQ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-22T12:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GuK0N-QaoghchQ1kqNH7PbsFEUY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0xHIVSXPNEc"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-02T14:51:19Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【同時視聴】Nintendo Direct 2025.4.2、ころねと一緒に観よ！！！【※ミラーではありません】",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- 見る動画はコチラ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0xHIVSXPNEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0xHIVSXPNEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0xHIVSXPNEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-02T14:51:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Czcsx0L5MMx4451Ul38TR1xjnmY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wVqXLHDCzSw"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-27T15:14:42Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【同時視聴】Nintendo Direct 2025.3.27、 一緒に観よ！！！【※ミラーではありません】",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- 見る動画はコチラ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wVqXLHDCzSw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wVqXLHDCzSw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wVqXLHDCzSw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-27T15:14:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kgwf0m96zILv2LzDe2DD2GTpyUw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cdrmGrs_ymg"
+            },
+            "snippet": {
+                "publishedAt": "2025-03-16T10:52:13Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "#2【ド★初見】ポケットモンスター（緑）遊びます【戌神ころね】",
+                "description": "Play Game : Pokémon Green Version ( GAME BOY ) タグ #生神もんざえもん​​​​​​​​​​​ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cdrmGrs_ymg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cdrmGrs_ymg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cdrmGrs_ymg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-03-16T10:52:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "92PXIVMSZDXy8Y9pDNSXA30O6W8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "f-qyvo2VU-8"
+            },
+            "snippet": {
+                "publishedAt": "2025-02-09T17:01:50Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【Minecraft】新ホロ鯖で冒険や！！！！！！！【戌神ころね】",
+                "description": "Play Game : Minecraft ( PC ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f-qyvo2VU-8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f-qyvo2VU-8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f-qyvo2VU-8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-02-09T17:01:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hm65hcvoeA8I5wFbAB8EtpuBWP8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "W5KF5Vem8Vk"
+            },
+            "snippet": {
+                "publishedAt": "2025-02-02T13:45:44Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【表ステージ全部やる】ドンキーコングリターンズHDもうちょっとだけ遊ぶよ～！！【戌神ころね】",
+                "description": "Play Game : Donkey Kong Country™ Returns HD ( switch ) タグ #生神もんざえもん​​​​​​​​​​​ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W5KF5Vem8Vk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W5KF5Vem8Vk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W5KF5Vem8Vk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-02-02T13:45:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "yPTvOgxldLbgtzM1MfOKDL3IYVs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UXoE_gwepqQ"
+            },
+            "snippet": {
+                "publishedAt": "2025-01-31T09:00:27Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【推しカメラ】INTERNET OVERDOSE / ライブ映像💛 #vtuber #戌神ころね",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころねTwitter▷https://twitter.com/inugamikorone ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UXoE_gwepqQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UXoE_gwepqQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UXoE_gwepqQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-01-31T09:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "V8E_yQKYlptae1gGzjpbrSYPWfI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1JgIy0GnN3M"
+            },
+            "snippet": {
+                "publishedAt": "2025-01-16T12:12:41Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【#鬼ヶ島コンビ】アソビ大全5本勝負じゃ！！！【ホロライブ/戌神ころね/百鬼あやめ】",
+                "description": "Play Game : 世界のアソビ大全51 ( switch ) タグ #鬼ヶ島コンビ --------------------------------------------- 鬼ヶ島コンビの鬼 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1JgIy0GnN3M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1JgIy0GnN3M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1JgIy0GnN3M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-01-16T12:12:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iZDMEhZSVQ4B5OnmXJdfcAZjo7s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u7VNPRH5xMQ"
+            },
+            "snippet": {
+                "publishedAt": "2025-01-14T14:45:24Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【本気と書いてクリア】ゲームオーバーになったら即終了なマリオ【戌神ころね/ホロライブ】",
+                "description": "Play Game : Super Mario Bros. ( switch ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u7VNPRH5xMQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u7VNPRH5xMQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u7VNPRH5xMQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-01-14T14:45:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9vSjPM7fcjMICq6339u86pvT-o0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MT4v9VKK3mU"
+            },
+            "snippet": {
+                "publishedAt": "2025-01-07T15:34:02Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【Super Adventure Hand】おてての大冒険！！！【戌神ころね/ホロライブ】",
+                "description": "Play Game : Super Adventure Hand ( steam ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MT4v9VKK3mU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MT4v9VKK3mU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MT4v9VKK3mU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-01-07T15:34:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uXX4fXuokgwvO9eMiwk1Nv3jtQ4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RWjYH3rEW6w"
+            },
+            "snippet": {
+                "publishedAt": "2025-01-01T09:29:33Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【2025】新年のご挨拶【2025】",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころねTwitter▷https://twitter.com/inugamikorone ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RWjYH3rEW6w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RWjYH3rEW6w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RWjYH3rEW6w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-01-01T09:29:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4MgnmAvZ9eBWvwDnmbmPl2w159c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gCiiL09Iuys"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-30T17:22:19Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "さらば2024年…雑談しながら除夜の鐘を叩くぞ（パート2）",
+                "description": "Play Game : 坊主がクレーン車で除夜の鐘を叩くゲーム ( PC ) タグ #生神もんざえもん​​​​​​​​​​​ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gCiiL09Iuys/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gCiiL09Iuys/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gCiiL09Iuys/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-30T17:22:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tLri-po041rLFmEl9elmUKhKjxY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "liCDTmqfEgc"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-29T01:18:29Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【獰猛注意】毛玉ころねのヤバさがわかるほぼ1分解説 #ホロライブ #hololive #みっころね24 #戌神ころね #東地宏樹",
+                "description": "毛玉ころねの知られざる秘密もあの人が・・・もふもふ！！ --------------------------------------------- ころねTwitter ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/liCDTmqfEgc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/liCDTmqfEgc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/liCDTmqfEgc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-29T01:18:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lyaRiHVOzhWLrT8yk-2-FJ4EGTs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rFjwrIhioy0"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-19T13:00:58Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【ころねすきー 推しカメラ】INTERNET OVERDOSE【戌神ころね/ホロライブ】#vtuber #誰得",
+                "description": "3D LIVE 全編 → https://www.youtube.com/watch?v=qIbjRU2Mo8I&t=2745s --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rFjwrIhioy0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rFjwrIhioy0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rFjwrIhioy0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-19T13:00:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iJ4BtzJPiROvDwuwc_RZ3P72cdI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "27N1_I21YQo"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-26T18:04:57Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【クリア耐久】神ゲー『スーパードンキーコング』やりましょう【祝☆発売30周年】",
+                "description": "Play Game : ドンキーコング ( switch ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/27N1_I21YQo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/27N1_I21YQo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/27N1_I21YQo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-26T18:04:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "C_r_24P_uAoEx_TPj3oMCadj3E4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3qv2z4v2Dk0"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-21T09:06:08Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "24日のイベントで一緒に踊ろう！『本噛ぷれしゃすモーメント』サビ振り付け #vtuber #戌神ころね #ソニころ2024",
+                "description": "「本噛ぷれしゃす モーメント」がテーマ曲になっている「ソニころ2024 私立ころね学園わんだふぉー どりーむ祭」は配信 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3qv2z4v2Dk0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3qv2z4v2Dk0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3qv2z4v2Dk0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-21T09:06:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "v3Np87hLUsRdQQ5Pqw3L2-KyCy0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_pmJoWKZEE4"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-14T14:56:14Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【ソニック × シャドウ ジェネレーションズ】シャドウに会いにいくよおおおおおおおおおおおおおお",
+                "description": "Play Game : SONIC X SHADOW GENERATIONS ( steam ) タグ #生神もんざえもん​​​​​​​​​​​ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_pmJoWKZEE4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_pmJoWKZEE4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_pmJoWKZEE4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-14T14:56:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_moUIQ8zfEuq4KxBGDZM0d_BKzo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y9H6wafnvaw"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-13T15:31:43Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "人生はじめてのメイプルストーリー！！遊んでみる！！！！！！",
+                "description": "Play Game : Maplestory ( PC ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y9H6wafnvaw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y9H6wafnvaw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y9H6wafnvaw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-13T15:31:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KtO9xK-OVXb2pioSdhGdRfG3qDw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8qFapHnT-yM"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-06T10:00:06Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【ウルトラマンカードゲーム】あの“円谷プロダクション”にお邪魔させていただきました！デュワッ！！【戌神ころね】",
+                "description": "提供：株式会社 円谷プロダクション 円谷プロダクションさんに行って ウルトラマン カードゲームで遊んできたぞおおおお！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8qFapHnT-yM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8qFapHnT-yM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8qFapHnT-yM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-06T10:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4pwW02idupMbtyEpgMf-J6Wrtyo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3iCdAOhJR9g"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-27T12:43:25Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【案件】新作の「ソニック × シャドウ ジェネレーションズ」２人で遊んでみるぞ～！【#ふたりは神様MaxDOG】",
+                "description": "Play Game : ソニック × シャドウ ジェネレーションズ ( ) タグ #ふたりは神様MaxDOG --------------------------------------------- 提供： ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3iCdAOhJR9g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3iCdAOhJR9g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3iCdAOhJR9g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-27T12:43:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PVIUmUzIKQWZ918ccF2y0LMeqkY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oQ2wYfh4AzA"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-10T13:46:09Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【ポコポン】宝探し～【ポコポン】",
+                "description": "Play Game : Hidden Through Time ( steam ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oQ2wYfh4AzA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oQ2wYfh4AzA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oQ2wYfh4AzA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-10T13:46:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xm_3WCOFK_IOIQfzUlU4E1BqicI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aofYLUiTpTI"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-05T09:00:27Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【映画紹介】映画『SAW』9作品で個人的に好きなグロシーンTOP10発表！（ネタバレあり）",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- タイトル：ソウX 2024年10月18日（金）よりTOHO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aofYLUiTpTI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aofYLUiTpTI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aofYLUiTpTI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-05T09:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aSLPFzlpdk71K7Z-yRzYs2PDTQg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SwUnrugQ9VM"
+            },
+            "snippet": {
+                "publishedAt": "2024-10-02T12:36:30Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "誕生日おわっちゃった・・・・・けど新衣装かわいいいいいいいいいいい＾＾３フゥー↑↑",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころねTwitter▷https://twitter.com/inugamikorone ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SwUnrugQ9VM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SwUnrugQ9VM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SwUnrugQ9VM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-10-02T12:36:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Y16p-PI6_v8tRmeV9oz_rZtV_iw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s6QLck-a5qc"
+            },
+            "snippet": {
+                "publishedAt": "2024-09-25T15:20:48Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【 ころね支店 】😏【 #ホロAmongUs​​​​​​​​​​​ 】",
+                "description": "Play Game : AmongUs ( steam ) タグ #ホロAmongUs​​​​​​​​​​​ --------------------------------------------- ○参加メンバー ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s6QLck-a5qc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s6QLck-a5qc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s6QLck-a5qc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-09-25T15:20:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fD2DEGFNFbh9j3Hw4zBfi01ilGc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7HV6CR4gK70"
+            },
+            "snippet": {
+                "publishedAt": "2024-08-22T06:30:10Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【案件】nosh（ナッシュ）食レポチャレンジ！【戌神ころね】",
+                "description": "nosh×Korone Ch. 戌神ころねの限定コラボクーポンはこちら⇩】 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7HV6CR4gK70/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7HV6CR4gK70/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7HV6CR4gK70/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-08-22T06:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "M0qDtKlfDYCAuIWumnWCz7WjefM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N9xw56s2kME"
+            },
+            "snippet": {
+                "publishedAt": "2024-08-17T10:43:47Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【ド★初見】鬼滅の刃 ヒノカミ血風譚、遊んでみる！【戌神ころね】",
+                "description": "Play Game : 鬼滅の刃 ヒノカミ血風譚 ( steam ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N9xw56s2kME/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N9xw56s2kME/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N9xw56s2kME/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-08-17T10:43:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Js4gEV1QDzNTmXlCJ0Tpv5op3Gc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wehY2Sr4DZc"
+            },
+            "snippet": {
+                "publishedAt": "2024-08-13T09:41:42Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【映画レビュー】話題の「プー2 あくまのくまさんとじゃあくななかまたち」観てきた！",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころねTwitter▷https://twitter.com/inugamikorone ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wehY2Sr4DZc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wehY2Sr4DZc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wehY2Sr4DZc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-08-13T09:41:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JgJA2699E_Uuek-0FO5mZywbmqo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qwxwU_7F1tg"
+            },
+            "snippet": {
+                "publishedAt": "2024-08-05T15:05:19Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【TAKIBI】焚火しながら反省会したっていいじゃない （アドバイス可）【まったり/のんびり/癒し/灯/Vtuber/戌神ころね】",
+                "description": "Play Game : TAKIBI ( steam ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qwxwU_7F1tg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qwxwU_7F1tg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qwxwU_7F1tg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-08-05T15:05:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r65rGay59NSgeVfFlLoi2wRK8Ko",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dBVtcxpLeL4"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-10T15:02:06Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【話題のやつ】僕、アルバイトォォ！！【戌神ころね/ホロライブ】",
+                "description": "Play Game : I Am Part-time Worker!! ( steam ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dBVtcxpLeL4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dBVtcxpLeL4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dBVtcxpLeL4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-10T15:02:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WdMwzvur5GOJ6E-_-4udQ61IXn4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2MkvqO-ENOg"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-06T03:59:20Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【クリア耐久】ルイージマンション2 HD やる！ 【ド★初見】",
+                "description": "Play Game : Luigi's Mansion2 HD ( switch ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2MkvqO-ENOg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2MkvqO-ENOg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2MkvqO-ENOg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-06T03:59:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VWDxngSuYQGXyICaf3YnrMb1CEQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BewUKxwJFUI"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-21T13:27:38Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【告知あり！？】ツリーくんが凸待ちをするようです🎄【戌神ころね/ホロライブ】",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ツリーくんグッズ発売中！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BewUKxwJFUI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BewUKxwJFUI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BewUKxwJFUI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-21T13:27:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Rmirqe788OvHHjKxMc81B-3-7fA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3p0s3PHU0JY"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-18T11:10:06Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【ロケVTR】激闘！ワカサギ釣り対決！！！？【#いぬたかししらむ】",
+                "description": "みんなで北海道を満喫してきました♪ --------------------------------------------- タグ #いぬたかししらむ​​​​​​​​​​​ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3p0s3PHU0JY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3p0s3PHU0JY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3p0s3PHU0JY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-18T11:10:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "T6VVy6YhdnrBOmNXE8lxCbmA9-E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8UkAHO1O-4Y"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-01T12:07:22Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【岩おじ】ただただクリアを目指すだけの配信。～2回目～",
+                "description": "Play Game : The Game of Sisyphus ( steam ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8UkAHO1O-4Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8UkAHO1O-4Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8UkAHO1O-4Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-01T12:07:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lDAk-kwQElkFekkYhjPSZPHzDW4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8Y1fLns6KY0"
+            },
+            "snippet": {
+                "publishedAt": "2024-05-28T11:01:44Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【#超超超超ゲーマーズ】みんなありがとう🐾イベントの振り返り放送するでな！！！！",
+                "description": "タグ #超超超超ゲーマーズ​​​​​​​​​​​ --------------------------------------------- ホロライブゲーマーズ初のリアルイベント！",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Y1fLns6KY0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Y1fLns6KY0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Y1fLns6KY0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-05-28T11:01:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YuldpdRTb4qDLmFSOwSGuEpcJMo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4DSV30bJTfQ"
+            },
+            "snippet": {
+                "publishedAt": "2024-04-20T06:54:48Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "例のエアホッケーを遊ぶ！！（ただしほぼ雑談。詳しくはアーカイブを見てネ）",
+                "description": "Play Game : エアホッケー ( PC ) タグ #生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4DSV30bJTfQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4DSV30bJTfQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4DSV30bJTfQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-04-20T06:54:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "k_OYa5matCpKBZd2-pgVoQZvX2s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FsUDFSrQICg"
+            },
+            "snippet": {
+                "publishedAt": "2024-04-17T12:47:01Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【WOWOWOW KORONE BOX】ころねのゲームやってみるでな！！【戌神ころね/ホロライブ】",
+                "description": "Play Game : WOWOWOW KORONE BOX ( steam ) タグ #生神もんざえもん​​​​​​​​​​​ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FsUDFSrQICg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FsUDFSrQICg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FsUDFSrQICg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-04-17T12:47:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rL6J3wUUnjnDjCvuw-ePvoHhMGI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "otCOeAnLqGs"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-14T12:33:27Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【#みんなのEXPO装備】みんなの写真を一緒に見ていくでな～！【戌神ころね/ホロライブ】",
+                "description": "タグ #生神もんざえもん​​​​​​​​​​​ #みんなのEXPO装備 --------------------------------------------- ころ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/otCOeAnLqGs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/otCOeAnLqGs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/otCOeAnLqGs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-14T12:33:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6D02vI8AKXObJHEKuJh9qh57jJg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZmLj7d2PWA8"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-26T14:24:07Z",
+                "channelId": "UChAnqc_AY5_I3Px5dig3X1Q",
+                "title": "【#ころさんを救え】タスケテ・・・たすけて・・・【リスナー協力ゲー】",
+                "description": "生神もんざえもん​​​​​​​​​​​ --------------------------------------------- ころねTwitter▷https://twitter.com/inugamikorone ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZmLj7d2PWA8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZmLj7d2PWA8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZmLj7d2PWA8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Korone Ch. 戌神ころね",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-26T14:24:07Z"
+            }
+        }
+    ]
+}
