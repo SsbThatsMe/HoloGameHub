@@ -1,5 +1,5 @@
 
-.infoCardImg {
+.info-card-img {
   aspect-ratio: 2 / 1;
   object-fit: cover;
   border-radius: 5%;
@@ -47,4 +47,12 @@
 .incorrect-sign {
   color: red;
   font-size: 80px;
+}
+.member-selector {
+  
+}
+
+.member-selector-image {
+  border-radius: 50%;
+  width: 8em;
 }
