@@ -1,7 +1,7 @@
 {
-  "name": "hologamehub",
   "homepage": "https://ssbthatsme.github.io/HoloGameHub/",
-  "private": true,
+  "name": "hologamehub",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
