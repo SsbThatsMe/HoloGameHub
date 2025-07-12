@@ -21,10 +21,11 @@ function App() {
   const [videoDate1, setVideoDate1] = useState("")
   const [videoDate2, setVideoDate2] = useState("")
   const [highScore, setHighScore] = useState(0)
+  const [newHighScore, setNewHighScore] = useState(false)
   const [currentMember, setCurrentMember] = useState("")
   let index1 = -1
   let index2 = -1
-  const [pageState, setPageState] = useState("memberSelect") //Acceptable values "memberSelect, playing, lossScreen"
+  const [pageState, setPageState] = useState("memberSelect") //Acceptable values "memberSelect, playing, resultScreen"
 
   document.documentElement.setAttribute('data-bs-theme', "dark")
 
@@ -53,18 +54,13 @@ function App() {
     fetchData();
   }, [dataUpdate])
 
-  
-
   const handleSelect = (correct: Boolean)  => {
     if (correct)  {
       
       setShowDates(true);
         setShowCorrect(true);
         setScore(score+1);
-        if (score+1 > highScore) {
-          setHighScore(score+1)
-          localStorage.setItem(currentMember + 'HighScore', (score+1).toString());
-        }
+        
         setTimeout(() => {
           setShowDates(false);
           setShowCorrect(false);
@@ -75,11 +71,16 @@ function App() {
       setShowDates(true);
       setShowIncorrect(true);
       setTimeout(() => {
+        if (score > highScore) {
+          setHighScore(score)
+          setNewHighScore(true);
+          localStorage.setItem(currentMember + 'HighScore', (score).toString());
+        }
           setShowIncorrect(false);
           setShowDates(false);
           setDataUpdate(dataUpdate+1);
+          setPageState("resultScreen")
         }, 2000)
-      setScore(0)
     }
   }
 
@@ -129,12 +130,27 @@ function App() {
           <MemberSelector imgSource="https://yt3.googleusercontent.com/ytc/AIdro_kaZLtKaya9TSJr3M4lpzV95R2rWdQtGk67fwedroUfSnE=s176-c-k-c0x00ffffff-no-rj-mo" memberName='aqua' onClick={(member) => handleMemberSelect(member)}/>
           <MemberSelector imgSource="https://yt3.ggpht.com/K91NQLuy_JMQ65n-Opf0Q2FZBO3yOURnMRusO7o5DTjaJ1QVtP-ANN4lehK57X4KXpcI2MiRig=s176-c-k-c0x00ffffff-no-rj-mo" memberName='shion' onClick={(member) => handleMemberSelect(member)}/>
         </div>
-
         <div className='row'>
         <MemberSelector imgSource="https://yt3.googleusercontent.com/JV8VdQFA7eZk5H1cRxHyIdLKQ5wD6EBywjxLzrne2EpY9LSiVgtapvh0iQA6plVNxdIKNxK0NRU=s176-c-k-c0x00ffffff-no-rj-mo" memberName='mio' onClick={(member) => handleMemberSelect(member)}/>
         <MemberSelector imgSource="https://yt3.googleusercontent.com/ytc/AIdro_nrS6tFctvjyWv1mKzKBIetHJBfpqwHOpvRFc3KU2P_5yc=s176-c-k-c0x00ffffff-no-rj-mo" memberName='korone' onClick={(member) => handleMemberSelect(member)}/>
         <MemberSelector imgSource="https://yt3.googleusercontent.com/oD8ISaA35737mg-lt5mYSfOIXmjCeHYcSFFpTQn4AVMkqiyzrMle_THvX6NdfSxbjUO6fQ6_wg=s176-c-k-c0x00ffffff-no-rj-mo" memberName='okayu' onClick={(member) => handleMemberSelect(member)}/>
         </div>
+      </div>
+      }
+      {pageState == "resultScreen" && <div className="container">
+        <h3>{(newHighScore ? "New high score: " : "Your score: ") + score}</h3>
+        <button onClick={() => {
+            setScore(0)
+            setPageState("playing")
+            setNewHighScore(false)
+            setDataUpdate(dataUpdate == 0 ? 1 : 0)
+        }}>play again</button>
+        <button onClick={() => {
+            setScore(0)
+            setPageState("memberSelect")
+            setNewHighScore(false)
+            setDataUpdate(dataUpdate == 0 ? 1 : 0)
+        }}>select member</button>
       </div>}
     </>
   )
