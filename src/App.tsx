@@ -96,7 +96,7 @@ function App() {
   return (
     <>
       {pageState == "playing" && <div>
-        <h1 className="text-center">Which is newer?</h1>
+        <h1 className="text-center">Which is newer test?</h1>
         <div className=" row align-items-start d-flex justify-content-center relative-position">
           {title1 && imageURL1 && <InfoCard imgSource={imageURL1} name={title1} date={videoDate1} showDate={showDates} onClick={(correct) => { handleSelect(correct)}} correct={videoDate1 >= videoDate2}></InfoCard> }
           {title2 && imageURL2 && <InfoCard imgSource={imageURL2} name={title2} date={videoDate2} showDate={showDates} onClick={(correct) => { handleSelect(correct)}} correct={videoDate2 >= videoDate1}></InfoCard> }
