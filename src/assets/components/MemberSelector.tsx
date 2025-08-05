@@ -1,13 +1,16 @@
+import { Link } from "react-router-dom"
+
 interface Props {
     imgSource: string
     memberName: string
-    onClick: (member: string) => void
 }
 
-const MemberSelector = ({imgSource, memberName, onClick}: Props) => {
+const MemberSelector = ({imgSource, memberName}: Props) => {
   return (
     <div className="member-selector col-sm">
-        <img className="member-selector-image" src={imgSource} alt={memberName} onClick={() => onClick(memberName)}/>
+        <Link to={"/HoloGameHub/guessing/" + memberName}>
+          <img className="member-selector-image" src={imgSource} alt={memberName}/>
+        </Link>
     </div>
   )
 }
