@@ -82,7 +82,7 @@ const HigherLowerPlay = () => {
   }, [dataUpdate])
 
   return (
-    <div>
+    <div className='game-page'>
         <div>
         <h1 className="text-center">Which is newer?</h1>
         <div className="info-card-holder">

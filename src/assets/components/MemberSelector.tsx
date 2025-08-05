@@ -7,10 +7,10 @@ interface Props {
 
 const MemberSelector = ({imgSource, memberName}: Props) => {
   return (
-    <div className="member-selector col-sm">
+    <div className="member-selector">
         <Link to={"/HoloGameHub/guessing/" + memberName}>
           <img className="member-selector-image" src={imgSource} alt={memberName}/>
-        </Link>
+        </Link> 
     </div>
   )
 }
